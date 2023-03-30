@@ -1,0 +1,235 @@
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:end
+- that's all
+- Yeah, that's it
+- thats it
+- It's all folks
+- I guess that's it
+- I guess that's all
+- Yep, I think it's all
+- Done, nothing more
+- Thank you
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- I'm not feeling good
+- Get me a docter
+- Fuck!!!
+- Can you help me
+- I need some help
+- Really exhauasted
+- really bad
+- frustrated
+- Really not satisfied
+- What to say, I'm feeling really bad
+
+## intent:symptom
+- I have fever
+- My head is paining
+- I have a headache
+- dizziness
+- I've been coughing
+- I'm exhuasted
+- I have fatigue
+- back pain
+- stomach pain
+- I feel dizzy
+- Dizziness is what I got
+- uncoordination
+- fever
+- pleuritic pain
+- snuffle
+- throat sore
+- malaise
+- debilitation
+- symptom aggravating factors
+- chill
+- scleral icterus
+- nasal flaring
+- dysuria
+- lip smacking
+- headache
+- sneeze
+- snore
+- green sputum
+- short of breath
+- distress respiratory
+- blackout
+- extreme exhaustion
+- heme positive
+- abdominal pain
+- vomiting
+- disequilibrium
+- nausea
+- intoxication
+- haemorrhage
+- guaiac positive
+- body weight decrease
+- sore to touch
+- pain
+- chest pain
+- sweat increase
+- pressure chest
+- syncope
+- numbness
+- chest discomfort
+- shortof breath
+- segment depression
+- worry
+- bradycardia
+- dyspnea
+- seizure
+- hypermetabolism
+- aura
+- muscle twitch
+- drowsy
+- tremor
+- unresponsiveness
+- hemiplegia
+- myoclonus
+- gurgle
+- sleepy
+- lethargy
+- hypotension
+- lightheadedness
+- unwell
+- mental status changes
+- sensory discomfort
+- dizzy
+- profuse sweating
+- diarrhea
+- anemia
+- muscle pain
+- convulsion
+- coma
+- bloody stools.chills
+- poor appetite
+- weakness
+- intestinal bleeding
+- cough
+- constipation
+- side pain
+- proststism
+- sniffle
+- vertigo
+- numb hand
+- out of breath
+- wheezing
+- tight chest
+- sedentry
+- angina pectoris
+- unhappy
+- hypothermia
+- hypoxemia
+- tender renal angle
+- hematuria
+- orthopnea
+- fatigue
+- exertion
+- venous distention
+- impaired cognition
+- tachypnea
+- sinus
+- unsteadyness
+- bruit
+- lesion
+- difficulty passing urine
+- monoclonal
+- tumor cell invasion
+- pallor
+- asthenia
+- orthostatis
+- swelling
+- exhaustion
+- ascites
+- rupture of membranes
+- pruritis
+- anorexia
+- transaminitis
+- fremitus
+- papaparesis
+- hunger
+- apyrexial
+- nervousness
+- feeling suicidal
+- feeling hopeless
+- weepiness
+- sleeplessness
+- irritable mood
+- agitation
+- nightmare
+- unable to concentrate
+- short of breadth
+- rale
+- ronchus
+- haemoptysis
+- fall
+- distended abdomen
+- unsteady gait
+- paresthesia
+- burning sensation
+- chest lightness
+- night sweat
+- stridor
+- stuffy nose
+- egophony
+- frail
+- nasal discharge
+- cystic lesion
+- atypia
+- unsteadiness
+- polydypsia
+- ambidexterity
