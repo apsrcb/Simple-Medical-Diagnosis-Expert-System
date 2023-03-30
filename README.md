@@ -11,3 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/94275810/228749958-ff0d7a33-7ee9-417b-8d93-8d1fc4be66a3.png)
 
+## Authors
+
+- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
+- [@rithikabadam](https://github.com/rithikabadam)
