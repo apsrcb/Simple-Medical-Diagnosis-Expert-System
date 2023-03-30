@@ -1,4 +1,4 @@
-#Medical Diagnosis Expert System using Python and AI 
+# Medical Diagnosis Expert System using Python and AI 
 
 ![image](https://user-images.githubusercontent.com/94275810/228746568-e62ad5c7-f2bc-4063-9ae6-1a84fdcafea2.png)
 
