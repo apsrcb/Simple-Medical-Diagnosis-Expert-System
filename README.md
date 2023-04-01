@@ -13,5 +13,6 @@
 
 ## Authors
 
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
 - [@rithikabadam](https://github.com/rithikabadam)
+- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
+
